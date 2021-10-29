@@ -3,7 +3,6 @@
 
 - 🔭 I’m currently working on **Web Development** with ReactJS and NodeJS
 - 🌱 I’m currently learning **IOS Development** at Apple Developer Academy - PUCPR
-- 🔍 I’m currently doing research for my undergraduate thesis on **Deep Fake Detection**
 - 📫 How to reach me **picolojoaop@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
