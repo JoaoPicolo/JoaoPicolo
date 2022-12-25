@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm João Pedro Picolo</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **Mobile Development** with Angular and Capacitor
-- 🌱 I’m currently learning **IOS Development** at Apple Developer Academy - PUCPR
+- 🌱 I’m currently looking for new opportunities to work as a Data Engineer
+- 🔭 Alumni at **Apple Developer Academy**
 - 📫 How to reach me **picolojoaop@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
