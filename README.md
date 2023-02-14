@@ -15,4 +15,11 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔖 Repositories Guide
+- Bootcamp: projects developed during bootcamps that I participated
+- UFPR: projects developed during by Bachelor's degree in Computer Science
+- WWDC*: projects developed for the Apple Worldwide Developers Conference
+- ADA: projects developed during the Apple Developer Academy (PUC-PR)
+- Tutorial: projects developed for learning purposes
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
