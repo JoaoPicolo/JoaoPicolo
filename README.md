@@ -23,5 +23,7 @@
 - ADA: projects developed during the Apple Developer Academy (PUC-PR)
 - WWDC*: projects developed for the Apple Worldwide Developers Conference
 - Tutorial: projects developed for learning purposes
+- OS: open source projects to which I have contributed
+- RP: projects developed for recruiting processes
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
