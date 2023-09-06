@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m looking for new career opportunities<br>👯 I’m looking to collaborate on data projects<br>🌱 I’m currently learning data science and data analytics<br>💬 Ask me about philosophy
+🔭 Analytics Engineer @MadeiraMadeira<br>👯 I’m looking to collaborate on data projects<br>🌱 I’m currently learning data science and data analytics<br>💬 Ask me about anything
 
 
 ## 🌐 Socials:
